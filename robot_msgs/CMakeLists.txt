@@ -43,6 +43,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 "msg/StringList.msg"
 "msg/SensorEnable.msg"
 "msg/DistanceSensor.msg"
+"msg/UartMessage.msg"
 "msg/BatteryStatus.msg"
 "msg/DockEnable.msg"
 "srv/GetCharger.srv"
